@@ -4,7 +4,7 @@ Hi there! I'm Ishtyaq.
 
 💻 I’m exploring Blockchain IC, Kubernetes and GitOps
 
-🌱 I’m planning to write on "modern application development"
+🌱 I write on LowCode development and fitness. 
 
 💬 Ask me about Java, Mendix, Docker,  or any tech related stuff.
 
