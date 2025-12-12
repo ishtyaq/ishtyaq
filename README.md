@@ -20,7 +20,7 @@ You can find me on the following platforms:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtyaq&theme=light&count_private=true&layout=compact" alt="Ishtiaq's most used languages" />
 </a>
 <a href="https://github.com/ishtyaq">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishtyaq&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Siva's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishtyaq&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Ishtiaq's github stats"/>
 </a>
 
 <!---
